@@ -9,8 +9,9 @@ const minifyhtml = require('gulp-minify-html');
 // });
 
 // test versie 4
-// function hallo() {
+// function hallo(cb) {
 //      return console.log('Hallo Gulp versie 4');
+//      cb();
 // };
 
 // exports.default = hallo;
